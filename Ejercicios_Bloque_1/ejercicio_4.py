@@ -1,0 +1,6 @@
+numero_1=int(input("Ingrese el Primer numero: "))
+numero_2=int(input("Ingrese el Segundo numero: "))
+print(f"La suma de {numero_1} y {numero_2} es igual a {numero_1+numero_2}")
+print(f"La resta de {numero_1} y {numero_2} es igual a {numero_1-numero_2}")
+print(f"La multiplicacion de {numero_1} y {numero_2} es igual a {numero_1*numero_2}")
+print(f"La division de {numero_1} y {numero_2} es igual a {numero_1/numero_2}")
