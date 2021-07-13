@@ -14,8 +14,6 @@ def mostrar_lista(lista):
     for elemento in lista:
         print(f"{i}){elemento}")
         i+=1
-
-"""-------------Menu-------------"""
 #creo lista de 120 elementos
 lista_numero_random=generador_lista_aleatoria(120)
 #
